@@ -1,3 +1,5 @@
+include ':Compat'
+include ':External'
 include ':Express'
 rootProject.name='Express4android'
 include ':Demo'
