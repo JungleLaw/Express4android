@@ -1,3 +1,4 @@
+include ':Express'
 rootProject.name='Express4android'
 include ':Demo'
 include ':Common'
