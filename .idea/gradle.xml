@@ -7,7 +7,7 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:/Gradle/gradle-6.0" />
+        <option name="gradleHome" value="E:/Gradle/gradle-6.6-milestone-3" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/Compat" />
             <option value="$PROJECT_DIR$/Core" />
             <option value="$PROJECT_DIR$/Demo" />
+            <option value="$PROJECT_DIR$/DemoExternal" />
             <option value="$PROJECT_DIR$/Express" />
             <option value="$PROJECT_DIR$/External" />
             <option value="$PROJECT_DIR$/Kernel" />

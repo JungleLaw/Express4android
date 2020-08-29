@@ -7,17 +7,15 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <Button
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="start"
         android:padding="10dp"
-        android:text="start" />
+        android:text="second" />
 
-    <Button
+    <fragment
+        android:id="@+id/myfragment"
+        android:name="cn.law.express.android.demo.MyFragment"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="sendBroadCastReceiver"
-        android:padding="10dp"
-        android:text="send BroadCastReceiver" />
+        android:layout_height="match_parent" />
 </LinearLayout>
